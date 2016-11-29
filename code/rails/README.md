@@ -26,5 +26,5 @@ Commonly Used Files
 * Stripe
   * ChargesController
   * SubscriptionsController
-  * wtripe.coffe
+  * stripe.coffee
 
