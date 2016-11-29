@@ -7,14 +7,21 @@ Guides for how we work:
 * Getting Started
 * Code
   * General
-  * Ruby
-  * HAML
-  * SASS
+  * [Ruby](ruby)
+  * [Haml](haml)
+  * [Sass](sass)
+  * [Rails](rails)
 * Protocol
   * Project Management
   * Communication
   * Trello
 
+A note on the language:
+
+* "Avoid" means don't do it unless you have good reason.
+* "Don't" means there's never a good reason.
+* "Prefer" indicates a better option and its alternative to watch out for.
+* "Use" is a positive instruction.
 
 High Level Guidelines:
 
@@ -23,12 +30,21 @@ High Level Guidelines:
 * Don't violate a guideline without a good reason.
 * A reason is good when you can convince a teammate.
 
-A note on the language:
+High Level Style Guidelines:
 
-* "Avoid" means don't do it unless you have good reason.
-* "Don't" means there's never a good reason.
-* "Prefer" indicates a better option and its alternative to watch out for.
-* "Use" is a positive instruction.
+* Avoid inline comments
+* Prefer explicit variable and method names; i.e., `total_products` over `cnt`
+* Use 2 space indentation (no tabs)
+* Use empty lines around multiline blocks
+* Use an empty line between methods
+* Use ane empty line at the end of a file
+* Use spaces around operators, except unary operators, such as `!`
+* Use spaces after commas, after colons and semicolons, around `{` and before `}`
+* Delete trailing whitespace (Configure your editor)
+  * [Vim](http://vi.stackexchange.com/questions/454/whats-the-simplest-way-to-strip-trailing-whitespace-from-all-lines-in-a-file)
+  * [Sublime](http://nategood.com/sublime-text-strip-whitespace-save)
+  * [Atom](http://stackoverflow.com/questions/30403150/atom-text-editor-remove-trailing-whitespace-on-save)
+
 
 Contributing
 ---

@@ -12,3 +12,4 @@ Ruby
 - Prefer `&&` and `||` over `and` and `or`
 - Prefer `if` over `unless`
 - Prefer `.each` over `for in`
+- Prefer ruby 1.9+ hash syntax `key: value` over `:key => value`
