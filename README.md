@@ -7,10 +7,10 @@ Guides for how we work:
 * Getting Started
 * Code
   * General
-  * [Ruby](ruby)
-  * [Haml](haml)
-  * [Sass](sass)
-  * [Rails](rails)
+  * [Ruby](code/ruby)
+  * [Haml](code/haml)
+  * [Sass](code/sass)
+  * [Rails](code/rails)
 * Protocol
   * Project Management
   * Communication
