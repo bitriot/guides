@@ -5,6 +5,7 @@ Bit Riot Guides
 Guides for how we work:
 
 * Getting Started
+  * Onboarding 
 * Code
   * [General](code/general)
   * [Ruby](code/ruby)
